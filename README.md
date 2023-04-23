@@ -8,4 +8,4 @@ The frontend of the project is made using python and backend is made in jupyter 
 \
 \
 This project was created with the help of video by CampusX : https://www.youtube.com/watch?v=1xtrIEwY_zY \
-I was helped in the backend of the project by Shivang Patel https://github.com/Shivang-Patel
+I was helped in the frontend of the project by Shivang Patel https://github.com/Shivang-Patel
